@@ -1,2 +1,2 @@
 # Wizz
-Buvo kurta su restsharp ir Newtonsoft.Json
+Buvo kurta su Restsharp ir Newtonsoft.Json
